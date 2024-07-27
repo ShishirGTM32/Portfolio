@@ -163,6 +163,7 @@ nav li:first-child {
     z-index: 1000;
   }
 }
+
 /* home section styling */
 .home {
   display: flex;
