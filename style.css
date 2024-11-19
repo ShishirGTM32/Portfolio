@@ -409,11 +409,11 @@ nav li:first-child {
 }
 
 .skills-content .right .css::before {
-  width: 80%;
+  width: 60%;
 }
 
-.skills-content .right .js::before {
-  width: 65%;
+.skills-content .right .python::before {
+  width: 55%;
 }
 
 .skills-content .right .php::before {
